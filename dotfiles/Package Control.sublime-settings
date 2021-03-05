@@ -1,24 +1,18 @@
 {
     "installed_packages":
     [
-        "AdvancedNewFile",
+        "A File Icon",
         "Anaconda",
-        "Djaneiro",
-        "Emmet",
+        "BracketHighlighter",
         "GitGutter",
         "Markdown Preview",
+        "Pretty JSON",
+        "Pretty YAML",
         "requirementstxt",
         "SideBarEnhancements",
         "SublimeLinter",
-        "SublimeLinter-csslint",
-        "SublimeLinter-html-tidy",
-        "SublimeLinter-jshint",
+        "SublimeLinter-annotations",
         "SublimeLinter-json",
-        "SublimeLinter-pep8",
-        "SublimeLinter-pyflakes",
-        "SublimeLinter-pyyaml",
-        "Theme - Flatland",
-        "Theme - Soda",
-        "Tomorrow Color Schemes"
+        "SublimeLinter-pylint"
     ]
 }
